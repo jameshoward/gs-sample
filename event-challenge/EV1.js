@@ -9,4 +9,5 @@ var b = 10;
 
 var c = 11;
 
-var dl = Spark.downloadableJson('DL1');
+var dl1 = Spark.downloadableJson('DL1');
+var dl2 = Spark.downloadableJson('DL2');
