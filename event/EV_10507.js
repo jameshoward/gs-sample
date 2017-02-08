@@ -8,4 +8,4 @@
 var something = 'All my changes are belong to you.';
 
 var b = something;
-var c = 'test change';
+var c = 'test change 2';
