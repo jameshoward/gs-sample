@@ -8,5 +8,3 @@
 
 // This is my RTS. Not sure what goes here.
 var isRealtime = true;
-
-var rtm1 = require('RTM1');
